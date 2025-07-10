@@ -180,13 +180,15 @@
 
     .content__cards {
         margin-bottom: 40px;
+
+        width: 100%;
     }
 
     .content__card {
         flex-direction: column;
         align-items: start;
 
-        width: 210px;
+        width: 100%;
     }
 
     .content__card-text {
