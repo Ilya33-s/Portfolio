@@ -6,7 +6,7 @@ Below you can find some of the projects I’ve worked on.
 
 ---
 
-### 🧱 [Simple](https://yourusername.github.io/portfolio/simple/)
+### 🧱 [Simple](https://ilya33-s.github.io/portfolio/simple/)
 **Description:**  
 A minimalist product showcase website with a clean layout and semantic markup. This project demonstrates structured, responsive layout techniques and polished UI.
 
