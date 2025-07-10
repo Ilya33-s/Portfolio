@@ -1,0 +1,68 @@
+/* Подвал — О нас */
+
+.about {
+    background-color: #4C5866;
+
+    padding: 28px 0;
+}
+
+.about .container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.about__icons {
+    display: flex;
+    gap: 30px;
+}
+
+.about__icon {
+    width: 24px;
+    height: 24px;
+}
+
+
+@media (max-width: 360px) {
+    .about {
+        padding: 20px 0;
+    }
+
+    .about .container {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .about__icons {
+        width: 100%;
+        max-width: 290px;
+        justify-content: center;
+
+        margin-top: 20px;
+        padding-top: 20px;
+
+        border-top: 1px solid hsla(0, 0%, 87%, 0.2);
+    }
+}
+
+/* Подвал — копирайт */
+
+.slogan {
+    padding: 3px 0;
+}
+
+.slogan .container {
+    display: flex;
+    justify-content: center;
+}
+
+.slogan__copyright {
+    color: #4C5866;
+    font-size: 13px;
+    text-transform: uppercase;
+}
+
+.slogan__trademark {
+    color: #BCBCBC;
+    font-size: 13px;
+    text-transform: uppercase;
+}
