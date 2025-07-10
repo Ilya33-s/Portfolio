@@ -112,7 +112,7 @@
 }
 
 
-@media (max-width: 360px) {
+@media (max-width: 395px) {
     .header__menu-wrapper {
         order: 2;
 
