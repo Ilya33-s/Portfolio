@@ -13,6 +13,8 @@ A minimalist product showcase website with a clean layout and semantic markup. T
 **Technologies:**  
 HTML5, CSS3 (Flexbox, Grid), BEM methodology
 
+**Desktop Preview:**
+
 ![Simple preview](Simple/Preview_Desktop.png)
 
 ---
