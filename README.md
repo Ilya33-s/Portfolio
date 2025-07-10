@@ -18,4 +18,4 @@ HTML5, CSS3 (Flexbox, Grid), BEM methodology
 ---
 
 💬 **Have a question or feedback?**  
-Feel free to [contact me via email](mailto:youremail@example.com)
+Feel free to [contact me via email](mailto:ilya.kroft@gmail.com)
