@@ -76,7 +76,7 @@
 }
 
 
-@media (max-width: 360px) {
+@media (max-width: 395px) {
     .welcome {
         padding: 50px 0;
     }
@@ -236,7 +236,7 @@
 }
 
 
-@media (max-width: 360px) {
+@media (max-width: 395px) {
     .content__cards {
         flex-wrap: wrap;
         gap: 20px;
@@ -369,7 +369,7 @@
 }
 
 
-@media (max-width: 360px) {
+@media (max-width: 395px) {
     .product__card {
         width: 100%;
         max-width: 290px;
@@ -437,7 +437,7 @@
 }
 
 
-@media (max-width: 360px) {
+@media (max-width: 395px) {
     .partner {
         overflow-x: auto;
     }
@@ -551,7 +551,7 @@
 }
 
 
-@media (max-width: 360px) {
+@media (max-width: 395px) {
     .promo__image {
         width: 290px;
         height: 221px;
