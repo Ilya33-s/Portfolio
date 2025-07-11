@@ -34,7 +34,7 @@
 }
 
 
-@media (max-width: 768px) {
+@media (max-width: 992px) {
     .welcome__text {
         width: 390px;
 
@@ -52,7 +52,7 @@
 }
 
 
-@media (max-width: 576px) {
+@media (max-width: 768px) {
     .welcome__text {
         width: 287px;
 
@@ -76,7 +76,7 @@
 }
 
 
-@media (max-width: 395px) {
+@media (max-width: 576px) {
     .welcome {
         padding: 50px 0;
     }
@@ -173,7 +173,7 @@
 }
 
 
-@media (max-width: 768px) {
+@media (max-width: 992px) {
     .content {
         padding: 60px 0;
     }
@@ -212,7 +212,7 @@
 }
 
 
-@media (max-width: 576px) {
+@media (max-width: 768px) {
     .content__card {
         width: 150px;
     }
@@ -238,7 +238,7 @@
 }
 
 
-@media (max-width: 395px) {
+@media (max-width: 576px) {
     .content__cards {
         flex-wrap: wrap;
         gap: 20px;
@@ -334,7 +334,7 @@
 }
 
 
-@media (max-width: 768px) {
+@media (max-width: 992px) {
     .product {
         padding: 60px 0;
     }
@@ -355,7 +355,7 @@
 }
 
 
-@media (max-width: 576px) {
+@media (max-width: 768px) {
     .product .container {
         flex-wrap: wrap;
         gap: 40px 30px;
@@ -371,7 +371,7 @@
 }
 
 
-@media (max-width: 395px) {
+@media (max-width: 576px) {
     .product__card {
         width: 100%;
         max-width: 290px;
@@ -415,7 +415,7 @@
 }
 
 
-@media (max-width: 768px) {
+@media (max-width: 992px) {
     .partner {
         padding: 60px 0;
     }
@@ -427,7 +427,7 @@
 }
 
 
-@media (max-width: 576px) {
+@media (max-width: 768px) {
     .partner .container {
         flex-wrap: wrap;
     }
@@ -439,7 +439,7 @@
 }
 
 
-@media (max-width: 395px) {
+@media (max-width: 576px) {
     .partner {
         overflow-x: auto;
     }
@@ -495,7 +495,7 @@
 }
 
 
-@media (max-width: 768px) {
+@media (max-width: 992px) {
     .promo {
         padding-top: 60px;
     }
@@ -521,7 +521,7 @@
 }
 
 
-@media (max-width: 576px) {
+@media (max-width: 768px) {
     .promo {
         padding: 60px 0;
     }
@@ -553,7 +553,7 @@
 }
 
 
-@media (max-width: 395px) {
+@media (max-width: 576px) {
     .promo__image {
         width: 290px;
         height: 221px;
