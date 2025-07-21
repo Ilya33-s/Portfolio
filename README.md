@@ -4,6 +4,9 @@ Hi! I build modern, responsive websites with a focus on semantic HTML, UX, and c
 
 Below you can find some of the projects I’ve worked on.
 
+ - [Simple](#Simple)
+ - [Zero](#Zero)
+
 ---
 
 ### 🧱 [Simple](https://ilya33-s.github.io/Portfolio/Simple/)
