@@ -28,7 +28,7 @@ HTML5, CSS3 (Flexbox, Grid), BEM methodology.
 
 **Desktop Preview:**
 
-()
+![Zero preview](Zero/Preview_Desktop.png)
 
 ---
 
