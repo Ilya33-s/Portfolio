@@ -7,7 +7,10 @@ Below you can find some of the projects I’ve worked on:
 ## 📑 Table of Contents
 - [🧱 Simple](#-simple)
 - [🎨 Zero](#-zero)
-- [💬 Feedback](#feedback)
+
+---
+
+- [💬 Feedback](#-feedback)
 
 ---
 
