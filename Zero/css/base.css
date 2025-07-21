@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');
+
+/* общие стили */
+
+* {
+    box-sizing: border-box;
+
+    margin: 0;
+    padding: 0;
+
+    font-weight: 400;
+
+    color: #000000;
+}
+
+body {
+    font-family: "Jost", sans-serif;
+    font-size: 26px;
+    
+}
+
+a {
+    text-decoration: none;
+    
+}
+
+ul {
+    list-style: none;
+}
+
+.container {
+    max-width: 1440px;
+
+    margin: 0 auto;
+    padding: 0 60px;
+}
+
+.logo {
+    max-width: 137px;
+}
+
+.label {
+    padding-top: 6px;
+    padding-bottom: 14px;
+    padding-left: 30px;
+    padding-right: 100px;
+
+    
+    color: #FFFFFF;
+    background-color: #000000;
+    
+    font-size: 36px;
+    line-height: 45px;
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    color: #FFFFFF;
+    background-color: #000000;
+}
+
+.banners {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 78px 46px;
+
+    margin-top: 74px;
+}
+
+.banner {
+    display: flex;
+    flex-direction: column;
+
+    padding: 29px;
+    padding-bottom: 31px;
+
+    background-color: rgba(0, 0, 0, 0.04);
+}
+
+.sign {
+    padding-left: 15px;
+    padding-top: 17px;
+
+    line-height: 32.5px;
+    text-transform: uppercase;
+}

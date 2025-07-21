@@ -1,0 +1,186 @@
+/* Приветствие */
+
+.welcome {
+    padding-top: 8px;
+    padding-bottom: 115px;
+}
+
+.welcome .container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.welcome__text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    min-width: 630px;
+}
+
+.welcome__lable-wrapper {}
+
+.welcome__lable {
+    display: inline-flex;
+
+    color: #FFF;
+    font-size: 14px;
+    text-transform: uppercase;
+
+    padding: 0 4px;
+
+    background: #E2B013;
+
+    line-height: 20px;
+}
+
+.weclome__title {
+    margin: 40px 0;
+
+    font-size: 96px;
+    line-height: 86.4px;
+}
+
+.welcome__subtitle {
+    font-size: 50px;
+    line-height: 25.2px;
+}
+
+.welcome__desc {
+    color: #333;
+
+    margin-top: 46px;
+    margin-bottom: 87px;
+
+    line-height: 33.8px;
+
+}
+
+.welcome__icons {
+    display: flex;
+    gap: 66px;
+}
+
+.welcome__icon {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+
+    max-width: 81px;
+}
+
+.welcome__icon-item {
+    max-width: 60px;
+}
+
+.weclome__icon-text {
+    color: #333;
+    text-align: center;
+    font-size: 11px;
+    line-height: 14.3px;
+    text-transform: uppercase;
+}
+
+.welcome__image {
+    max-width: 728px;
+}
+
+/* Презентация */
+
+.present {
+    padding-top: 100px;
+    padding-bottom: 60px;
+}
+
+.present .container {
+    display: flex;
+}
+
+.present__image {
+    margin-top: 27px;
+
+    max-width: 660px;
+    max-height: 440px;
+}
+
+.present__text {
+    margin-left: 50px;
+}
+
+.present__title {
+    font-size: 96px;
+    line-height: 86.4px;
+}
+
+.present__desc {
+    margin-top: 43px;
+    margin-bottom: 28px;
+
+    font-size: 22px;
+    line-height: 27.5px;
+}
+
+.present__btn-wrapper {
+    display: inline-flex;
+    flex-wrap: wrap;
+    gap: 8px 10px;
+
+    max-width: 380px;
+}
+
+.present__btn-row {
+    display: flex;
+    gap: 10px;
+}
+
+.present .btn {
+    padding: 9px 0;
+    padding-left: 16px;
+    padding-right: 30px;
+
+    font-size: 14px;
+    line-height: 20px; /* 142.857% */
+}
+
+/* Лендинг */
+
+.landing {
+    padding: 100px 0;
+}
+
+.landing__image {
+    max-width: 576px;
+}
+
+/* Компании */
+
+.company {
+    padding: 100px 0;
+}
+
+.company__image {
+    max-width: 345px;
+}
+
+/* Страницы CMS */
+
+.cms-pages {
+    padding-bottom: 100px;
+}
+
+.cms-pages__image {
+    max-width: 576px;
+}
+
+/* Технические страницы */
+
+.utility {
+    padding-top: 30px;
+    padding-bottom: 100px;
+}
+
+.utility__image {
+    max-width: 576px;
+}
