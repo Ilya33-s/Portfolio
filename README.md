@@ -11,11 +11,24 @@ Below you can find some of the projects I’ve worked on.
 A minimalist product showcase website with a clean layout and semantic markup. This project demonstrates structured, responsive layout techniques and polished UI.
 
 **Technologies:**  
-HTML5, CSS3 (Flexbox, Grid), BEM methodology
+HTML5, CSS3 (Flexbox, Grid), BEM methodology.
 
 **Desktop Preview:**
 
 ![Simple preview](Simple/Preview_Desktop.png)
+
+---
+
+### 🎨 Zero
+**Description:**
+A clean and lightweight landing page designed to present products in a modern and elegant layout. Built with accessibility and maintainability in mind, this project showcases semantic structure and responsive styling.
+
+**Technologies:**
+HTML5, CSS3 (Flexbox, Grid), BEM methodology.
+
+**Desktop Preview:**
+
+()
 
 ---
 
